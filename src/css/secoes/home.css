@@ -16,7 +16,7 @@
 
 @media(max-width: 1280px) {
     .home .texto-home, .home .img-home {
-        flex: 0 0 1000%;
+        flex: 0 0 100%;
         max-width: 100%;
         text-align: center;
         padding: 0 var(--mobile-padding);
@@ -27,7 +27,7 @@
 }
 
 .home .img-home .img-box {
-    max-width: 450px;
+    max-width: 250px;
     margin: auto;
     border-radius: 50%;
 }
