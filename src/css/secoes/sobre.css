@@ -6,13 +6,13 @@
 
 .sobre-mim .imagem-sobre-mim .img-box {
     padding: 15px;
-    border-radius: 3px;
+    border-radius: 5px;
     text-align: center;
 }
 
 .sobre-mim .imagem-sobre-mim img {
     border: 10px solid transparent;
-    border-radius: 0px;
+    border-radius: 5px;
 }
 
 .sobre-mim .informacoes-sobre-mim {    
@@ -27,7 +27,6 @@
 
 .sobre-mim .informacoes-sobre-mim p {
     font-size: 1.8rem;
-    font-weight: 300;
     margin-bottom: 20px;
 }
 
@@ -53,6 +52,7 @@
         box-shadow: none;
     }
 }
+
 
 @media(max-width:768px){
     .sobre-mim .informacoes-sobre-mim {  
